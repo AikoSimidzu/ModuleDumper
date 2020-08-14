@@ -1,0 +1,6 @@
+C:\Users\steal\source\repos\AutoScript\ModuleDumper\bin\Debug\ModuleDumper.exe.config
+C:\Users\steal\source\repos\AutoScript\ModuleDumper\bin\Debug\ModuleDumper.exe
+C:\Users\steal\source\repos\AutoScript\ModuleDumper\bin\Debug\ModuleDumper.pdb
+C:\Users\steal\source\repos\AutoScript\ModuleDumper\obj\Debug\ModuleDumper.csproj.CoreCompileInputs.cache
+C:\Users\steal\source\repos\AutoScript\ModuleDumper\obj\Debug\ModuleDumper.exe
+C:\Users\steal\source\repos\AutoScript\ModuleDumper\obj\Debug\ModuleDumper.pdb
